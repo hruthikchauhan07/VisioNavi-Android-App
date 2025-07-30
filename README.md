@@ -87,11 +87,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 - **Developer: Hruthik M**
-  - Phone Number: [Your-Phone-Number]
-  - Email: [your-email@example.com]
-  - LinkedIn Profile: [your-linkedin-profile]
+  - Phone Number: [+91 6366685912]
+  - Email: [hruthikmnaik07@gmail.com]
 
 - **Co-Developer: MM Prateek**
-  - Phone Number: [Co-Developer-Phone-Number]
-  - Email: [co-developer-email@example.com]
-  - LinkedIn Profile: [co-developer-linkedin-profile]
+  - Phone Number: [+91 7975151758]
+  - Email: [mmprateek2004@gmail.com]
